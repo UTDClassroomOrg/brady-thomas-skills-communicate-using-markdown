@@ -4,3 +4,8 @@ I added an H1 Header to the file
 ```java
 System.out.println("This is a code block!");
 ```
+- [x] Add An H1 Header
+- [x] Add an Image
+- [x] Add a code block
+- [x] Add a task list
+- [ ] Finish this assignment (again) 
